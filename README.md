@@ -1,8 +1,8 @@
 # hAPPen-ing
 Innovative Campus Event Finder &amp; RSVP System
-# 🌱 **Contributing**
+# 🌱 **Contribution**
 
-We welcome contributions to this project! Here’s how you can get started:
+Here’s how you can get started, my team mates:
 
 1. Fork the repository to your GitHub account.
 
